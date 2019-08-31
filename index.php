@@ -1,0 +1,105 @@
+	<!DOCTYPE html>
+	<html lang="zxx" class="no-js">
+	<head>
+		<!-- Mobile Specific Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<!-- Favicon-->
+		<link rel="shortcut icon" href="img/fav.png">
+		<!-- Author Meta -->
+		<meta name="author" content="colorlib">
+		<!-- Meta Description -->
+		<meta name="description" content="">
+		<!-- Meta Keyword -->
+		<meta name="keywords" content="">
+		<!-- meta character set -->
+		<meta charset="UTF-8">
+		<!-- Site Title -->
+		<title>choyingenuity</title>
+
+		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+			<!--
+			CSS
+			============================================= -->
+			<link rel="stylesheet" href="css/linearicons.css">
+			<link rel="stylesheet" href="css/font-awesome.min.css">
+			<link rel="stylesheet" href="css/bootstrap.css">
+			<link rel="stylesheet" href="css/magnific-popup.css">
+			<link rel="stylesheet" href="css/jquery-ui.css">				
+			<link rel="stylesheet" href="css/nice-select.css">							
+			<link rel="stylesheet" href="css/animate.min.css">
+			<link rel="stylesheet" href="css/owl.carousel.css">				
+			<link rel="stylesheet" href="css/main.css">
+		</head>
+		<body>	
+			<br>
+			<br>
+			<br>
+			<!-- start banner Area -->
+			<section>
+				<div class="container">
+					<div class="row fullscreen align-items-center justify-content-between">
+						<div class="col-lg-6 col-md-6 banner-left">
+							<div align="center"><h1>Mits Choy</h1></div>
+							<p>
+								I am currently working as an I.T. at  <a href="https://www.facebook.com/fcicbaybayleyteInc/" target=_"blank">Franciscan College of the Immaculate Conception Incorporated Baybay City Leyte.</a>.
+							</p>
+			
+							<div class="container">
+								<br>
+								<br>
+						    <div align="center"> <h4 class="mb-10"	>My Offered Services</h4> </div>						
+									<div class="row">
+										<div class="col-lg-4 col-md-6">
+											<div class="single-services">
+												<span class="lnr lnr-pie-chart"></span>
+												<a href="#"><h4>Web <br>Design</h4></a>
+												
+											</div>
+										</div>
+										<div class="col-lg-4 col-md-6">
+											<div class="single-services">
+												<span class="lnr lnr-laptop-phone"></span>
+												<a href="#"><h4>Web <br>Development</h4></a>
+												
+											</div>
+										</div>
+										<div class="col-lg-4 col-md-6">
+											<div class="single-services">
+												<span class="lnr lnr-rocket"></span>
+												<a href="#"><h4>Graphic<br> Design</h4></a>
+												
+											</div>				
+										</div>														
+									</div>
+								</div>
+								<br>
+							<div align="center"><a href="https://www.messenger.com/t/choymits" target=_"blank" class="primary-btn text-uppercase">Contact Me Now</a></div>		
+					
+						</div>
+						<div class="col-lg-6 col-md-6 banner-right d-flex align-self-end">
+							<img class="img-fluid" src="img/hero-img.png" alt="">
+						</div>
+					</div>
+				</div>					
+			</section>
+			<!-- End banner Area -->
+			<script src="js/vendor/jquery-2.2.4.min.js"></script>
+			<script src="js/popper.min.js"></script>
+			<script src="js/vendor/bootstrap.min.js"></script>			
+			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>			
+  			<script src="js/easing.min.js"></script>			
+			<script src="js/hoverIntent.js"></script>
+			<script src="js/superfish.min.js"></script>	
+			<script src="js/jquery.ajaxchimp.min.js"></script>
+			<script src="js/jquery.magnific-popup.min.js"></script>	
+    		<script src="js/jquery.tabs.min.js"></script>						
+			<script src="js/jquery.nice-select.min.js"></script>	
+            <script src="js/isotope.pkgd.min.js"></script>			
+			<script src="js/waypoints.min.js"></script>
+			<script src="js/jquery.counterup.min.js"></script>
+			<script src="js/simple-skillbar.js"></script>							
+			<script src="js/owl.carousel.min.js"></script>							
+			<script src="js/mail-script.js"></script>	
+			<script src="js/main.js"></script>	
+		</body>
+	</html>
